@@ -29,3 +29,8 @@ kubectl get all
 ```
 kubectl port-forward service/$(kubectl get services | grep backend-service | cut -f 1 -d ' ') 8080:80
 ```
+
+
+```
+helm history example
+```
