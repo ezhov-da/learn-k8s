@@ -1,0 +1,6 @@
+name: spring-k8s
+replicas: 3
+container:
+  name: backend
+  image:
+  port: 8080
