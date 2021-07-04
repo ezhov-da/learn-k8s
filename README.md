@@ -1,4 +1,4 @@
-# spring-k8s
+# learn-k8s
 
 Build image from commit
 ```
